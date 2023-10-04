@@ -21,4 +21,8 @@ w# CSN150-ESP32-Project
 
 ![Spongebob Computer](../main/spongebob-computer.gif)
 
+![Spongebob Computer with link from Github](https://github.com/ereedsanchez/CSN150-ESP32-Project/blob/main/spongebob-computer.gif)
+
+
+
 
