@@ -16,5 +16,6 @@
 
 
 [ESP32 Awesome Project to Rule the World](https://website.com)
-[link to internal github file: Readme2](../blob/master/README-part2.md)
+
+[link to internal github file: Readme2](../master/README-part2.md)
 
