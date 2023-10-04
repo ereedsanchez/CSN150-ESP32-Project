@@ -46,6 +46,12 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
 
 
+
+  
+
+}
+```
+
 Table
 
 | Tables        | Are           | Cool  |
@@ -53,9 +59,3 @@ Table
 | col 3 is      | right-aligned | $1600 |
   
   delay(1000);                       // wait for a second
-  
-
-}
-
-```
-
