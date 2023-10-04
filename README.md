@@ -19,6 +19,6 @@ w# CSN150-ESP32-Project
 
 [link to internal github file: Readme2](../master/README-part2.md)
 
-![Spongebob Computer](../master/spongebob-computer.gif)
+![Spongebob Computer](../main/spongebob-computer.gif)
 
 
