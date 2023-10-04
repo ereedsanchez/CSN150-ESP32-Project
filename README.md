@@ -32,7 +32,7 @@ Do code below in terminal
 
 example arduino code
 
-`
+```
 pinMode(LED_BUILTIN, OUTPUT);
 
 }
@@ -50,5 +50,5 @@ void loop() {
 
 }
 
-`
+```
 
