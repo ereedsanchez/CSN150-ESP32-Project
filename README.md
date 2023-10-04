@@ -1,4 +1,4 @@
-# CSN150-ESP32-Project
+w# CSN150-ESP32-Project
 
 ## Title 2
 
@@ -18,4 +18,7 @@
 [ESP32 Awesome Project to Rule the World](https://website.com)
 
 [link to internal github file: Readme2](../master/README-part2.md)
+
+![Spongebob Computer](../master/spongebob-computer.gif)
+
 
